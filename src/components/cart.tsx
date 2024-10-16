@@ -19,7 +19,7 @@ const EmptyState = () => {
 				</span>
 			</p>
 			<p class={styles.empty}>
-				Your cart is empty! Ass a sandwich kit or two and give flavour a chance.
+				Your cart is empty! Add a sandwich kit or two and give flavour a chance.
 			</p>
 		</>
 	);
